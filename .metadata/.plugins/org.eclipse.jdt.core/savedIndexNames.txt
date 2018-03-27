@@ -14,7 +14,6 @@ INDEX VERSION 1.130+\\cs-fs01\Profiles\ug\huynm\Desktop\myRepo\.metadata\.plugin
 1580166048.index
 3693261185.index
 3947521672.index
-637806191.index
 1329257546.index
 1230538165.index
 2589955883.index
