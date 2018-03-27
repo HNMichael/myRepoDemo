@@ -1,0 +1,7 @@
+package conlict;
+
+public class MergeConlict {
+	
+	System.out.println("hello");
+
+}

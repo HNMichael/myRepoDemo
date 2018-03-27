@@ -2,7 +2,7 @@ package conlict;
 
 public class MergeConlict {
 
-	public static void main(String[] args) {
+	public static void main(Stirng[] args) {
 		System.out.println("hello");
 	}
 	//System.out.println("hello");
